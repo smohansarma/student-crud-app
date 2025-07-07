@@ -31,3 +31,12 @@ CREATE TABLE students (
     grade VARCHAR(10),
     email VARCHAR(100)
 );
+
+
+SAMPLE OUTPUT:
+=== Student Management System ===
+1. Add student
+2. View students
+3. Update student
+4. Delete student
+5. Exit
